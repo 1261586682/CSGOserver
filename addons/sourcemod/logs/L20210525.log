@@ -1,0 +1,9 @@
+L 05/25/2021 - 15:26:01: SourceMod log file session started (file "/root/csgoserver/csgo/addons/sourcemod/logs/L20210525.log") (Version "1.10.0.6502")
+L 05/25/2021 - 15:26:01: -------- Mapchange to de_dust2 --------
+L 05/25/2021 - 15:26:04: [weapons.smx] SQLite DB connection successful
+L 05/25/2021 - 15:26:04: [weapons.smx] Inactive players' data has been deleted
+L 05/25/2021 - 15:43:28: -------- Mapchange to de_inferno --------
+L 05/25/2021 - 15:43:30: [weapons.smx] Inactive players' data has been deleted
+L 05/25/2021 - 16:13:52: -------- Mapchange to de_mirage --------
+L 05/25/2021 - 16:13:55: [weapons.smx] Inactive players' data has been deleted
+L 05/31/2021 - 16:35:19: Log file closed.

@@ -1,0 +1,11 @@
+L 05/08/2021 - 14:21:49: SourceMod log file session started (file "/root/csgoserver/csgo/addons/sourcemod/logs/L20210508.log") (Version "1.10.0.6502")
+L 05/08/2021 - 14:21:49: -------- Mapchange to de_dust2 --------
+L 05/08/2021 - 14:22:11: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 05/08/2021 - 14:22:11: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 05/08/2021 - 14:22:11: [weapons.smx] SQLite DB connection successful
+L 05/08/2021 - 14:22:11: [weapons.smx] Inactive players' data has been deleted
+L 05/08/2021 - 14:23:15: -------- Mapchange to de_dust2 --------
+L 05/08/2021 - 14:23:17: [weapons.smx] Inactive players' data has been deleted
+L 05/08/2021 - 14:24:18: -------- Mapchange to de_inferno --------
+L 05/08/2021 - 14:24:20: [weapons.smx] Inactive players' data has been deleted
+L 05/11/2021 - 18:18:15: Log file closed.

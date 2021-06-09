@@ -1,0 +1,3 @@
+models\player\custom_player\kodua/fortnite_emotes_v2.dx90.vtx
+models\player\custom_player\kodua/fortnite_emotes_v2.mdl
+models\player\custom_player\kodua/fortnite_emotes_v2.vvd
